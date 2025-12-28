@@ -1,5 +1,4 @@
 import random
-#Question to be asked
 quiz_data = [
     {
         "question": "What does HTML stand for?",
